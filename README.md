@@ -2,7 +2,7 @@
 
 
 
-This repository contains a my exploration of the security challenges associated with Large Language Models (LLMs) in web environments. From understanding the fundamentals of LLMs to mapping their API attack surface and proposing mitigation strategies, this project aims to raise awareness and provide insights into safeguarding against potential vulnerabilities.
+This repository contains  my exploration of the security challenges associated with Large Language Models (LLMs) in web environments. From understanding the fundamentals of LLMs to mapping their API attack surface and proposing mitigation strategies, this project aims to raise awareness and provide insights into safeguarding against potential vulnerabilities.
 
 **Contents:**
 
